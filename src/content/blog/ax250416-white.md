@@ -1,8 +1,8 @@
 ---
-title: "Mercedes Actros Turn/DRL"
-description: "New GEN2 module"
-pubDate: "Apr 17 2025"
-heroImage: "/blog-placeholder-about.jpg"
+title: "Scania SR 2016+ White DRL"
+description: "New replacement module Gen3 White DRL for Scania SR 2016+ truck"
+pubDate: "Apr 19 2025"
+heroImage: "/scania-rs-216plus-gen3-ax250416lrh-amber-front.webp"
 ---
 
-The latest 2rd generation replacement for Mercedes Actros trucks.
+The latest 3rd generation replacement module in Cool White for Scania SR 2016+ trucks.
